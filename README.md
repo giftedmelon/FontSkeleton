@@ -1,5 +1,5 @@
 # FontSkeleton
-![Image text](https://raw.githubusercontent.com/giftedmelon/FontSkeleton/master/dataset/graph/logo.png width="100")
+<img src="https://raw.githubusercontent.com/giftedmelon/FontSkeleton/master/dataset/graph/logo.png" width="100")
 
 ## Descrption
 
